@@ -19,6 +19,7 @@
   "homepage": "https://github.com/meganbeek98/book-search-engine#readme",
   "dependencies": {
     "apollo-server-express": "^3.9.0",
-    "graphql": "^16.5.0"
+    "graphql": "^16.5.0",
+    "mongoose": "^6.4.4"
   }
 }
