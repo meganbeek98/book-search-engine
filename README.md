@@ -1,3 +1,49 @@
+# Book Search Engine
+### OSU Bootcamp Challenge 21
+---------------------------------------------------
+## Devloped By: Megan Beekman (2022), [GitHub profile --->](https://github.com/meganbeek98)
+    developed using: (fill in info here)
+
+---------------------------------------------------
+
+## About: <br>
+    (add description here)
+
+---------------------------------------------------
+
+## User Story: <br>
+    (insert User Story here)
+
+## Screenshots: <br>
+
+<img>insert image path here</img>
+
+<img>insert image path here</img>
+
+---------------------------------------------------
+
+## Links: <br>
+
+[insert link description](insert-actual-link-here)
+
+[insert link description](insert-actual-link-here)
+
+----------------------------------------------------
+
+## Some resources used to develop: <br>
+    - OSU Coding Bootcamp (2022) -- modules, and the instructors & TA's
+    - Slack (including 'ASKBCS' assistants)
+    - Github
+    - MDN Web Docs
+    - stackoverflow
+    - w3schools.com
+    - And last, but certainly not least --> Google!
+
+----------------------------------------------------
+----------------------------------------------------
+
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
