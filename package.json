@@ -2,7 +2,7 @@
   "engines": {
     "node": "16.13.1"
   },
-  "name": "book-search-engine",
+  "name": "googlebooks",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
