@@ -1,3 +1,70 @@
+# Book Search Engine -- with MERN stack
+### OSU Bootcamp Challenge 21
+---------------------------------------------------
+## Devloped By: Megan Beekman (2022), [GitHub profile --->](https://github.com/meganbeek98)
+    Developed using:
+        - JavaScript
+        - Node.js
+        - Express
+        - React
+        - Apollo Server
+        - Graphql
+        - Mongodb
+        - Mongoose
+        - Heroku
+
+---------------------------------------------------
+
+## About: <br>
+    Usage of Google Books API to create an Graql API with Apollo Server. MERN stack is implemented to create the app. User can sign up and log in for an account, search for a book of their liking and added to a list of saved books, users can also remove the saved books.
+
+---------------------------------------------------
+
+## User Story: <br>
+    AS AN avid reader
+    I WANT to search for new books to read
+    SO THAT I can keep a list of books to purchase
+
+---------------------------------------------------
+
+## Screenshots: <br>
+
+Homepage
+<img src="./SS-book1.png"></img>
+
+Search for your favorite books!
+<img src="./SS-book2.png"></img>
+
+You can search for ANY book!
+<img src="./SS-book3.png"></img>
+
+Dropdown menu in header
+
+<img src="./SS-books4.png"></img>
+
+---------------------------------------------------
+
+## Links: <br>
+
+[Github Repo](https://github.com/meganbeek98/book-search-engine.git)
+
+[Heroku Deployment](https://pacific-lowlands-38126.herokuapp.com/)
+
+----------------------------------------------------
+
+## Some resources used to develop: <br>
+    - OSU Coding Bootcamp (2022) -- modules, and the instructors & TA's
+    - Slack (including 'ASKBCS' assistants)
+    - Github
+    - MDN Web Docs
+    - stackoverflow
+    - w3schools.com
+    - And last, but certainly not least --> Google!
+
+----------------------------------------------------
+----------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
