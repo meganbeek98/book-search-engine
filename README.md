@@ -1,32 +1,54 @@
-# Book Search Engine
+# Book Search Engine -- with MERN stack
 ### OSU Bootcamp Challenge 21
 ---------------------------------------------------
 ## Devloped By: Megan Beekman (2022), [GitHub profile --->](https://github.com/meganbeek98)
-    developed using: (fill in info here)
+    Developed using:
+        - JavaScript
+        - Node.js
+        - Express
+        - React
+        - Apollo Server
+        - Graphql
+        - Mongodb
+        - Mongoose
+        - Heroku
 
 ---------------------------------------------------
 
 ## About: <br>
-    (add description here)
+    Usage of Google Books API to create an Graql API with Apollo Server. MERN stack is implemented to create the app. User can sign up and log in for an account, search for a book of their liking and added to a list of saved books, users can also remove the saved books.
 
 ---------------------------------------------------
 
 ## User Story: <br>
-    (insert User Story here)
+    AS AN avid reader
+    I WANT to search for new books to read
+    SO THAT I can keep a list of books to purchase
+
+---------------------------------------------------
 
 ## Screenshots: <br>
 
-<img>insert image path here</img>
+Homepage
+<img src="./SS-book1.png"></img>
 
-<img>insert image path here</img>
+Search for your favorite books!
+<img src="./SS-book2.png"></img>
+
+You can search for ANY book!
+<img src="./SS-book3.png"></img>
+
+Dropdown menu in header
+
+<img src="./SS-books4.png"></img>
 
 ---------------------------------------------------
 
 ## Links: <br>
 
-[insert link description](insert-actual-link-here)
+[Github Repo](https://github.com/meganbeek98/book-search-engine.git)
 
-[insert link description](insert-actual-link-here)
+[Heroku Deployment](https://googlebooks-meganbeek98.herokuapp.com/)
 
 ----------------------------------------------------
 
