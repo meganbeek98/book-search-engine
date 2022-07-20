@@ -48,9 +48,7 @@ Dropdown menu in header
 
 [Github Repo](https://github.com/meganbeek98/book-search-engine.git)
 
-[GitHub Pages Deployment](https://meganbeek98.github.io/book-search-engine/)
-
-[Heroku Deployment](https://pacific-lowlands-38126.herokuapp.com/)
+[Heroku Deployment](https://googlebooks-meganbeek98.herokuapp.com/)
 
 ----------------------------------------------------
 
